@@ -1,5 +1,5 @@
 # Curso Java - Projeto infoX  
-## aulaEAD ()  
+## aulaEAD (Professor José de Assis)  
 
 ### Link dos vídeos  
 <https://www.youtube.com/watch?v=eA4WjjkzK3c&list=PLbEOwbQR9lqxsTusvu8wfkUECrmcV81MU>
